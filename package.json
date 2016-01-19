@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "timestamp micro service",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samedy/timestamp_microservice.git"
+  },
+  "author": "samedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samedy/timestamp_microservice/issues"
+  },
+  "homepage": "https://github.com/Samedy/timestamp_microservice#readme"
+}
